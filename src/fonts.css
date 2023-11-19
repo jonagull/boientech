@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "Akira";
+    src: url("/src/lib/fonts/AkiraExpanded.otf") format("opentype");
+    /* Add more src formats for cross-browser compatibility */
+    /* ... */
+}
